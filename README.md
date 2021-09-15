@@ -29,5 +29,5 @@ The classes are:
 * adam
 
 # Summary
-In the initial phase got 92% & 67 % of training, testing accuracy. Again the system tranined with the optimizer and got an higher improvement in the training set which gave 100% accuracy but still the testing set gave 68% accurate results. After that created another model for checking the results, here the no. of epochs are increased to 20 from 10. Here also got 100% accurate results in the traning set however, the testing set accuracy reamained 68%. From this found that, we can improve the testing accuracy with the help of more optimizers in the same model it will give the results what we will get from more epochs levels.
+In the initial phase got 92% & 67 % of training, testing accuracy. Again the system tranined with the optimizer and got a higher improvement in the training set which given 100% accuracy but still the testing set provides 68% accurate results. After that, created another model for checking the results; here the no. of epochs are increased to 20 from 10. Here also got 100% accurate results on the traning set however, the testing set accuracy reamained 68%. From this found that, we can improve the testing accuracy with the help of more optimizers in the same model it will give the results what we will get from more epochs levels.
 
